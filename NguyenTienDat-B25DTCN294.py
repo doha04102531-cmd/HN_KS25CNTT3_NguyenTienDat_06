@@ -146,7 +146,8 @@ Xin mời nhập lựa chọn của bạn: ''')
         case '4':
             delete_booking(booking)
         
-        # case 6:
+        case 6:
+            thong_ke(booking)
 
         case '8':
             print('Cảm ơn đã sử dụng')
